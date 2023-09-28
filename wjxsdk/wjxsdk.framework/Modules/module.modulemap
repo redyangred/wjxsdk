@@ -1,0 +1,6 @@
+framework module wjxsdk {
+  umbrella header "wjxsdk.h"
+
+  export *
+  module * { export * }
+}
